@@ -1,4 +1,13 @@
-# About Me
+---
+permalink: /
+title: "Linhao Li - AI for Healthcare | Multimodal | Computational Pathology"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+## 👋 Welcome
 
 Hi! I'm Linhao Li (李林豪), an undergraduate student majoring in **Data Science and Big Data Technology** at **Chongqing University**, China. I’m currently in my third year and spent a semester as an **exchange student in Computer Science** at the **University of Macau**. My academic and research focus lies at the intersection of **Artificial Intelligence (AI) and Healthcare**, with a strong interest in **Multimodal** and **Computational Pathology**.
 
