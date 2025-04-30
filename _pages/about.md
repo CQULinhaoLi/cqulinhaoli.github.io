@@ -23,9 +23,9 @@ Hi! I'm Linhao Li (李林豪), an undergraduate student majoring in **Data Scien
 
 ## 🔬 Research Experience
 
-At the **Information Processing and Intelligent Systems Lab** (Chongqing University), I work on **multi-source information fusion** and **uncertainty modeling**, applying these techniques to enhance classification tasks in complex systems. I proposed a method based on **Generalized Quantum Evidence Theory (GQET)**, improving uncertainty handling in fusion scenarios, and achieved promising results surpassing traditional models.
+At the **Information Processing and Intelligent Systems Lab** (Chongqing University), I conducted research on **multi-source information fusion** and **uncertainty modeling**, aiming to improve classification performance in complex systems. I proposed a novel approach based on **Generalized Quantum Evidence Theory (GQET)** to handle uncertainty in heterogeneous data fusion scenarios. The method achieved superior results compared to traditional fusion techniques, particularly in tasks requiring robust decision-making under ambiguity.
 
-Additionally, I independently explored **wound localization in animal models**, designing machine learning pipelines to estimate wound dimensions from biomedical images. These hands-on projects deepened my passion for computational approaches to healthcare challenges.
+At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a research intern on a project involving **video annotation for object tracking in real-world scenarios**. I annotated over **6000 frames across 9 videos**, addressing challenges such as occlusion, motion blur, and target disappearance. Using the **Segment Anything Model (SAM)**, I optimized the annotation pipeline for both efficiency and temporal consistency. I also actively engaged in discussions on ambiguous cases and refined annotation strategies. This experience sparked my interest in **vision-based healthcare applications**, particularly **computational pathology** and **multimodal medical data analysis**.
 
 ---
 
