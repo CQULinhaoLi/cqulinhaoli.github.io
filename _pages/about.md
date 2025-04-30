@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linhao Li - AI for Healthcare | Multimodal | Computational Pathology"
+title: "Linhao Li | AI for Healthcare | Multimodal | Computational Pathology"
 author_profile: true
 redirect_from: 
   - /about/
