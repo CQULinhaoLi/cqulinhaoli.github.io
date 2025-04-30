@@ -25,7 +25,7 @@ Hi! I'm Linhao Li (李林豪), an undergraduate student majoring in **Data Scien
 
 At the **Information Processing and Intelligent Systems Lab** (Chongqing University), I conducted research on **multi-source information fusion** and **uncertainty modeling**, aiming to improve classification performance in complex systems. I proposed a novel approach based on **Generalized Quantum Evidence Theory (GQET)** to handle uncertainty in heterogeneous data fusion scenarios. The method achieved superior results compared to traditional fusion techniques, particularly in tasks requiring robust decision-making under ambiguity.
 
-At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a research intern on a project involving **video annotation for object tracking in real-world scenarios**. I annotated over **6000 frames across 9 videos**, addressing challenges such as occlusion, motion blur, and target disappearance. Using the **Segment Anything Model (SAM)**, I optimized the annotation pipeline for both efficiency and temporal consistency. I also actively engaged in discussions on ambiguous cases and refined annotation strategies. This experience sparked my interest in **vision-based healthcare applications**, particularly **computational pathology** and **multimodal medical data analysis**.
+At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a research intern on a project involving **video annotation for object tracking in real-world scenarios**. I annotated over **6000 frames across 9 videos**, addressing challenges such as occlusion, motion blur, and target disappearance. Using the **Segment Anything Model (SAM)**, I optimized the annotation pipeline for both efficiency and temporal consistency. I also actively engaged in discussions on ambiguous cases and refined annotation strategies. 
 
 ---
 
@@ -46,10 +46,10 @@ At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a
 
 ---
 
-## 📌 Personal Website
+<!-- ## 📌 Personal Website
 
 🌐 [https://cqulinhaoli.github.io](https://cqulinhaoli.github.io)
 
----
+--- -->
 
 Let’s connect if you’re working on AI applications in healthcare, computational pathology, or multimodal — I’m always open to new collaborations and opportunities!
