@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Linhao Li / Personal Website"
+title                    : "Linhao Li (李林豪)"
 title_separator          : "-"
 name                     : &name "Linhao Li"
 description              : &description "Undergraduate student at Chongqing University"
