@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S in Data Science and Big Data Technology, Chongqing University, Chongqing, China  
+* B.S in Data Science and Big Data Technology, Chongqing University   
   _Sept. 2022 – Jun. 2026 (expected)_
 
-* B.S in Computer Science (Exchange Program), University of Macau, Macau SAR, China  
+* B.S in Computer Science (Exchange Program), University of Macau  
   _Aug. 2024 – Jan. 2025_
 
 
