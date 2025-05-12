@@ -20,7 +20,7 @@ Hi! I'm Linhao Li (李林豪), an undergraduate student majoring in **Data Scien
 - **Computational Pathology** – applying machine learning and computer vision to histopathological images and biomedical data.
 
 ---
-
+<!-- 
 ## 🔬 Research Experience
 
 At the **Information Processing and Intelligent Systems Lab** (Chongqing University), I conducted research on **multi-source information fusion** and **uncertainty modeling**, aiming to improve classification performance in complex systems. I proposed a novel approach based on **Generalized Quantum Evidence Theory (GQET)** to handle uncertainty in heterogeneous data fusion scenarios. The method achieved superior results compared to traditional fusion techniques, particularly in tasks requiring robust decision-making under ambiguity.
@@ -44,7 +44,7 @@ At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a
 - English (TOEFL 94: R28/L24/S19/W23)  
 - Cantonese (Basic)
 
----
+--- -->
 
 <!-- ## 📌 Personal Website
 
