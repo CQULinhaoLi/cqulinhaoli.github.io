@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant: Fundamentals of Computer Programming"
+title: "Teaching Assistant in 2023 Fall"
 collection: teaching
-type: "Undergraduate course"
+type: "CST11103"
 permalink: /teaching/2023-fall-fundamentals-programming
-venue: "School of Big Data and Software, Chongqing University"
+venue: "Fundamentals of Computer Programming, Chongqing University, School of Big Data and Software"
 date: 2023-08-01
 location: "Chongqing, China"
 ---
