@@ -21,7 +21,7 @@ Internship Experience
 ======
 
 * Mar. 2025 – Apr. 2025: Research Intern  
-  * Fudan Vision and Learning Lab (FVL), Fudan University  
+  * [Fudan Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/), Fudan University  
   * Duties included: Annotated over 6000 frames across 9 videos for object tracking tasks in real-world scenarios. Addressed challenges such as occlusion, motion blur, and target disappearance. Optimized the annotation pipeline using the Segment Anything Model (SAM) for efficiency and temporal consistency. Participated in discussions to refine annotation strategies.  
   * Supervisor: [Dr. Henghui Ding](https://henghuiding.com/)
 
