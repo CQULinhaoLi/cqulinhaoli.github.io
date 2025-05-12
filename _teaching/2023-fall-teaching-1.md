@@ -8,8 +8,8 @@ date: 2023-08-01
 location: "Chongqing, China"
 ---
 
-**Teaching Assistant, Fundamentals of Computer Programming**  
-_August 2023 – January 2024_
+<!-- **Teaching Assistant, Fundamentals of Computer Programming**  
+_August 2023 – January 2024_ -->
 
 - Assisted in teaching introductory programming concepts, including C++, Python, data structures, and algorithms.  
 - Conducted lab sessions to guide students through hands-on coding exercises and practical applications.  
