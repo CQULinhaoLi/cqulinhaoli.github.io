@@ -52,4 +52,4 @@ At the **Fudan Vision and Learning Lab (FVL)** (Fudan University), I worked as a
 
 --- -->
 
-Let’s connect if you’re working on AI applications in healthcare, computational pathology, or multimodal — I’m always open to new collaborations and opportunities!
+I’m passionate about research in AI, multimodal learning, and their applications in fields like healthcare and intelligent systems. I'm currently seeking PhD opportunities — feel free to reach out!
