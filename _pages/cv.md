@@ -30,7 +30,7 @@ Internship Experience
   * Duties included: Conducted research on multi-source information fusion and uncertainty modeling. Proposed a novel method based on Generalized Quantum Evidence Theory (GQET) for heterogeneous data fusion. Demonstrated improved classification performance and robust decision-making under ambiguity.  
   * Supervisor: [Prof. Fuyuan Xiao](https://www.cse.cqu.edu.cn/info/2095/5902.htm)
 
-
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -47,16 +47,17 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+   -->
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Technical Skills
+  * **Programming Languages**: Python, C++, Matlab
+  * **Frameworks/Libraries**: PyTorch, Scikit-Learn, Numpy, Pandas
+  * **Research Tools**: Git, Latex, Origin
+  * **Others**: Machine/Deep Learning Algorithms, Scientific Writing
+* Languages
+  * Mandarin (Native)
+  * English (Proficient)
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
