@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Fundamentals of Computer Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2023-fall-fundamentals-programming
+venue: "School of Big Data and Software, Chongqing University"
+date: 2023-08-01
+location: "Chongqing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Assistant, Fundamentals of Computer Programming**  
+_August 2023 – January 2024_
 
-Heading 1
-======
+- Assisted in teaching introductory programming concepts, including C++, Python, data structures, and algorithms.  
+- Conducted lab sessions to guide students through hands-on coding exercises and practical applications.  
+- Held weekly office hours to support over 100 students with coding assignments, debugging, and exam preparation.  
+- Graded assignments and exams, providing detailed feedback to improve students’ understanding and performance.
 
-Heading 2
-======
-
-Heading 3
-======
