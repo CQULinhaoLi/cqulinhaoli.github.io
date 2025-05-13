@@ -72,7 +72,7 @@ Skills
 ======
 
 * **Technical Skills**
-  * **Programming Languages**: Python, C++, Matlab
+  * **Programming Languages**: Python, C/C++, Matlab
   * **Frameworks/Libraries**: PyTorch, Scikit-Learn, Numpy, Pandas
   * **Research Tools**: Git, Latex, Origin
   * **Others**: Machine/Deep Learning Algorithms, Scientific Writing
