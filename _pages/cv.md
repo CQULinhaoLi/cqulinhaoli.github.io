@@ -17,7 +17,7 @@ Education
 * B.S in **Computer Science** (Exchange Program), University of Macau  
   _Aug. 2024 – Jan. 2025_
 
-Internship Experience
+Research Experience
 ======
 
 * Mar. 2025 – Apr. 2025: Research Intern  
@@ -31,7 +31,7 @@ Internship Experience
 * Jul. 2023 – Present: Research Intern  
   * Information Processing and Intelligent Systems Lab, Chongqing University  
   * Conducted research on multi-source data fusion and uncertainty modeling:
-    - Proposed a novel method based on Generalized Quantum Evidence Theory (GQET) for heterogeneous data.
+    - Proposed a novel Generalized Quantum Basic Belief Assignment (GQBBA) generation method based on Generalized Quantum Evidence Theory (GQET) for heterogeneous data.
     - Improved classification performance in complex systems with ambiguous information.
     - Focused on robust decision-making under uncertainty.  
   * Supervisor: [Prof. Fuyuan Xiao](https://www.cse.cqu.edu.cn/info/2095/5902.htm)
