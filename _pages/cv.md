@@ -55,6 +55,17 @@ Work experience
   * Supervisor: Professor Git
    -->
 
+Achievements  
+======
+
+* 2025, 2024: **Honorable Mention**, Mathematical Contest in Modeling (MCM/ICM)  
+* 2024: **Outstanding Student Award**, Chongqing University  
+* 2024: **Second-Class Scholarship**, Chongqing University  
+* 2023: **Third Prize**, Team Programming Ladder Tournament, Chongqing University  
+* 2021: **Second Prize**, Chinese Mathematical Olympiad (CMO), Chongqing Province  
+* 2021, 2020: **Second Prize**, Chinese Physics Olympiad (CPhO), Chongqing Province  
+* 2018: **Second Prize**, National Olympiad in Informatics (NOIP), Chongqing Province  
+
 Skills
 ======
 
