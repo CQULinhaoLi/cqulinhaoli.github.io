@@ -10,6 +10,8 @@ redirect_from:
 ## 👋 Welcome
 
 Hi! I'm Linhao Li (李林豪), an undergraduate student majoring in **Data Science and Big Data Technology** at **Chongqing University**, China. I’m currently in my third year and spent a semester as an **exchange student in Computer Science** at the **University of Macau**. My academic and research focus lies at the intersection of **Artificial Intelligence (AI) and Healthcare**, with a strong interest in **Multimodal** and **Computational Pathology**.
+[📄 Download my CV (PDF)](../files/cv/CV_20250513.pdf) here.
+
 
 ---
 
