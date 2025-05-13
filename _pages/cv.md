@@ -20,14 +20,6 @@ Education
 Research Experience
 ======
 
-* Mar. 2025 – Apr. 2025: Research Intern  
-  * [Fudan Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/), Fudan University  
-  * Focused on object tracking in real-world videos:
-    - Annotated 6000+ frames across 9 videos, addressing occlusion, motion blur, and target disappearance.
-    - Optimized the annotation pipeline using the Segment Anything Model (SAM) for efficiency and temporal consistency.
-    - Contributed to refining annotation strategies through team discussions on ambiguous cases.  
-  * Supervisor: [Dr. Henghui Ding](https://henghuiding.com/)
-
 * Jul. 2023 – Present: Research Intern  
   * Information Processing and Intelligent Systems Lab, Chongqing University  
   * Conducted research on multi-source data fusion and uncertainty modeling:
@@ -35,6 +27,16 @@ Research Experience
     - Improved classification performance in complex systems with ambiguous information.
     - Focused on robust decision-making under uncertainty.  
   * Supervisor: [Prof. Fuyuan Xiao](https://www.cse.cqu.edu.cn/info/2095/5902.htm)
+
+
+* Mar. 2025 – Apr. 2025: Research Intern  
+  * [Fudan Vision and Learning Lab (FVL)](https://fvl.fudan.edu.cn/), Fudan University  
+  * Focused on object tracking in real-world videos:
+    - Annotated 6000+ frames across 9 videos, addressing occlusion, motion blur, and target disappearance.
+    - Optimized the annotation pipeline using the Segment Anything Model (SAM) for efficiency and temporal consistency.
+    - Contributed to refining annotation strategies through team discussions on ambiguous cases.  
+  * Supervisor: [Prof. Henghui Ding](https://henghuiding.com/)
+
 
 <!-- 
 Work experience
